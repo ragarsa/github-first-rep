@@ -1,1 +1,2 @@
 Este es un archivo de test para el curso de Django iniciado el 25 de Mayo del 2020
+Este es otro trackeo parte de un reto del curso

@@ -1,1 +1,1 @@
-Se est  modificando desde la terminal 
+Otro cambio por el reto del curso Django 
